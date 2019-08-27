@@ -1,2 +1,8 @@
 
 /gatling-test/target/
+/standard-server/target/
+*.iml
+*.hprof
+/target/
+/client/target/
+/.idea/
